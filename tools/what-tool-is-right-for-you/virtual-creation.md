@@ -2,7 +2,9 @@
 
 describe what CAD is, show some tools and workflows
 
+Buttons that link to sections on UNITY, Blender, tinkercad, Rhino etc.
 
+{% page-ref page="../../learning-material/tinkercad/" %}
 
-Buttons that link to further articles on UNITY, Blender, tinkercad etc.
+{% page-ref page="../../learning-material/rhino3d.md" %}
 
