@@ -40,6 +40,8 @@
 
 * [Rhino3d](learning-material/rhino3d/README.md)
   * [What is Rhino3d?](learning-material/rhino3d/what-is-rhino3d.md)
+  * [Installing Rhino3d](learning-material/rhino3d/installing-rhino3d.md)
+  * [The Interface](learning-material/rhino3d/the-interface.md)
   * [How it works](learning-material/rhino3d/how-it-works.md)
   * [Cheatsheets and other resources](learning-material/rhino3d/cheatsheets-and-other-resources.md)
 * [TinkerCAD](learning-material/tinkercad/README.md)
