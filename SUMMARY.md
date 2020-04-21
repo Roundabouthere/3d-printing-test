@@ -20,7 +20,9 @@
 
 * [What is 3d Data?](3d-data/what-is-3d-data.md)
 * [Why are researchers using 3d Data?](3d-data/why-are-researchers-using-3d-data.md)
-* [What are Researchers using 3d Data for?](3d-data/what-are-researchers-using-3d-data-for.md)
+* [What are Researchers using 3d Data for?](3d-data/what-are-researchers-using-3d-data-for/README.md)
+  * [Data visualisation](3d-data/what-are-researchers-using-3d-data-for/data-visualisation.md)
+  * [Prototyping](3d-data/what-are-researchers-using-3d-data-for/prototyping.md)
 * [Examples of researchers using 3d Data](3d-data/examples-of-researchers-using-3d-data/README.md)
   * [Prototyping and ancient horn with 3d printing and scanning](3d-data/examples-of-researchers-using-3d-data/prototyping-and-ancient-horn-with-3d-printing-and-scanning.md)
 
