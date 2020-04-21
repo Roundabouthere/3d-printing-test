@@ -1,3 +1,9 @@
+---
+description: >-
+  Interested in 3d Design, or have a design you'd like to discuss? Join a
+  training or drop-in session http://go.unimelb.edu.au/tx3r
+---
+
 # 3d Design
 
 3d Design is the process of developing a mathematical representation of any surface of an object in three dimensions via specialized software. This software is often refered to as Computer Aided Design or CAD for short. Models may be created automatically or manually, 

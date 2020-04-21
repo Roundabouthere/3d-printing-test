@@ -1,6 +1,6 @@
 # Training Format
 
-![An example of online trainings using Zoom](../.gitbook/assets/zoom-classroom.png)
+![A zoom training in action.](../.gitbook/assets/zoom-classroom.png)
 
 This course is separated into individual modules. Whilst the modules are designed to be accessed during an online learning workshop \(via Zoom\), they are also accessible for those who cannot attend.
 

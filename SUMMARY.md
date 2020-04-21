@@ -38,14 +38,12 @@
 
 ## Learning Material
 
+* [Rhino3d](learning-material/rhino3d/README.md)
+  * [What is Rhino3d?](learning-material/rhino3d/what-is-rhino3d.md)
+  * [How it works](learning-material/rhino3d/how-it-works.md)
+  * [Cheatsheets and other resources](learning-material/rhino3d/cheatsheets-and-other-resources.md)
 * [TinkerCAD](learning-material/tinkercad/README.md)
-  * [Test pull from existing github repo.](learning-material/tinkercad/test-pull-from-existing-github-repo..md)
   * [What is TinkerCAD?](learning-material/tinkercad/what-is-tinkercad.md)
-  * [The workplane and navigation](learning-material/tinkercad/the-workplane-and-navigation.md)
-  * [Basic Shapes](learning-material/tinkercad/basic-shapes.md)
-  * [Design Challenge!](learning-material/tinkercad/design-challenge.md)
-  * [Wrap up and summary](learning-material/tinkercad/wrap-up-and-summary.md)
+  * [How it works](learning-material/tinkercad/how-it-works.md)
   * [Cheatsheets and other resources](learning-material/tinkercad/cheatsheets-and-other-resources.md)
-* [Rhino3d](learning-material/rhino3d.md)
-* [Fusion 360](learning-material/fusion-360.md)
 
