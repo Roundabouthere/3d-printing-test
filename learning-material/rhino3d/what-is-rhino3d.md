@@ -6,5 +6,5 @@ In many 3d Data workflows a CAD program will be required. And of the selection o
 
 ![\( 3 years of photoshop at uni \)](https://lh3.googleusercontent.com/FTSGPHIR5FyFMshmW-dVhiijkg8XIWHsDmAhhtBoYa6OI6aXeW33OLStbnlqGSBckCFT0d4OYcNiMULjs5QVnunZU_QlM1ybHgyMP_0HQ4G69yNk2q4GSfRFwai8Ybf1Zc4On-Wnv4w)
 
-This training is going to give you the basics to approach what can be a intimidating, and counterintuitive program. And hopefully then you will have some keys to open up possibilities with your 3d data.
+
 
