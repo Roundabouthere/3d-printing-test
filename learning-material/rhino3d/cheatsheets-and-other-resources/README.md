@@ -10,11 +10,11 @@
 
 **Boolean:** The term for intersecting shapes and how the intersection is handled.
 
-![](../../.gitbook/assets/curves.png)
+![](../../../.gitbook/assets/curves.png)
 
 ### Shortcuts Cheatsheet:
 
-![](../../.gitbook/assets/rhino-cheat-sheet_page_1.jpg)
+![](../../../.gitbook/assets/rhino-cheat-sheet_page_1.jpg)
 
 ### 
 

@@ -4,6 +4,8 @@
 
 ## Welcome! <a id="welcome-1"></a>
 
+---
+
 * [Who are we?](who-are-we.md)
 * [Our Philosophy](our-philosophy.md)
 * [The Power of Community](the-power-of-community.md)
@@ -43,7 +45,8 @@
   * [Installing Rhino3d](learning-material/rhino3d/installing-rhino3d.md)
   * [The Interface](learning-material/rhino3d/the-interface.md)
   * [How it works](learning-material/rhino3d/how-it-works.md)
-  * [Cheatsheets and other resources](learning-material/rhino3d/cheatsheets-and-other-resources.md)
+  * [Cheatsheets and other resources](learning-material/rhino3d/cheatsheets-and-other-resources/README.md)
+    * [Rhino3d intro training template](learning-material/rhino3d/cheatsheets-and-other-resources/rhino3d-intro-training-template.md)
 * [TinkerCAD](learning-material/tinkercad/README.md)
   * [What is TinkerCAD?](learning-material/tinkercad/what-is-tinkercad.md)
   * [How it works](learning-material/tinkercad/how-it-works.md)
